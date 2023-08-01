@@ -1,0 +1,11 @@
+<?php
+
+return [
+    'SMS_API' => '31476D664A7A6F63646B47384E324B6B434B55546B746E68696934454837636E',
+
+    'QUESTION_TYPE' => [
+        0 => 'UPLOAD_FILE',
+        1 => 'YES_OR_NO',
+        2 => 'MULTIPLE',
+    ]
+];

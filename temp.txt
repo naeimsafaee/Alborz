@@ -1,0 +1,380 @@
+ <div class="container">
+                <div class="row">
+                    <div class="offer-row col-lg-12 col-md-12 col-sm-12">
+                        <div class="offer">
+                            ۱۰هزار ریال تخفیف اولین خرید از گلماگرام با کد تخفیف <span> golma1</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row apar-row">
+                    <a class="link-items" href="#"></a>
+
+                    <div class="enter-row col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <h2>
+                            گل و گیاه آپارتمانی
+                        </h2>
+                        <p>
+                            مجموعه گیاهامناسب برای نگهداری در آپارتمان
+                        </p>
+                        <img class="mobile left-arrow" src="assets/svg/chevron-back-outline.svg">
+
+                    </div>
+                    <div class="user-agant col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                        <a href="#" >
+                            <button  class="extra-item">
+                                <img src="assets/svg/icons8-back-24.png">
+                                <p>
+                                    مشاهده همه
+
+                                </p>
+                            </button>
+
+
+                        </a>
+                    </div>
+                </div>
+                <div  class="blog-row mobile-scrolling scrolling-wrapper">
+
+                    <div class="card"> <a class="items">
+                            <div class="img-box">
+                                <img src="assets/svg//sample.jpg">
+
+                            </div>
+                            <h3>
+                                نخل شامادورا
+                            </h3>
+                            <p>
+                                ۱۶۵/۰۰۰
+                                <span>
+                      تومان
+                    </span>
+                            </p>
+                        </a></div>
+                    <div class="card"> <a class="items">
+                            <div class="img-box">
+                                <img src="assets/svg//sample.jpg">
+
+                            </div>
+                            <h3>
+                                نخل شامادورا
+                            </h3>
+                            <p>
+                                ۱۶۵/۰۰۰
+                                <span>
+                      تومان
+                    </span>
+                            </p>
+                        </a></div>
+                    <div class="card"> <a class="items">
+                            <div class="img-box">
+                                <img src="assets/svg//sample.jpg">
+
+                            </div>
+                            <h3>
+                                نخل شامادورا
+                            </h3>
+                            <p>
+                                ۱۶۵/۰۰۰
+                                <span>
+                      تومان
+                    </span>
+                            </p>
+                        </a></div>
+                    <div class="card"> <a class="items">
+                            <div class="img-box">
+                                <img src="assets/svg//sample.jpg">
+
+                            </div>
+                            <div class="offer-box">
+                                ۵۰ هزار تومان تخفیف ویژه
+                            </div>
+                            <h3>
+                                نخل شامادورا
+                            </h3>
+                            <p>
+                                ۱۶۵/۰۰۰
+                                <span>
+                      تومان
+                    </span>
+                            </p>
+                        </a></div>
+
+                </div>
+
+                <div  class="blog-row mobile-scrolling scrolling-wrapper ">
+
+                    <div class="card">   <a href="#" class="blog-item">
+                            <div class="img-box">
+                                <img src="assets/svg/undraw_design_inspiration_fmjm.svg">
+
+                            </div>
+                            <h6>
+                                نگهداری آسان
+                            </h6>
+                            <p>
+                                مناسب برای نور کم منزل
+                            </p>
+                        </a></div>
+                    <div class="card">   <a href="#" class="blog-item">
+                            <div class="img-box">
+                                <img src="assets/svg/undraw_pleasant_surprise_5sjy.svg">
+
+                            </div>
+                            <h6>
+                                مناسب برای هدیه
+
+                            </h6>
+                            <p>
+                                گیاهان خاص و لوکس برای هدیه
+                            </p>
+                        </a></div>
+                    <div class="card">   <a href="#" class="blog-item">
+                            <div class="img-box">
+                                <img src="assets/svg/undraw_fall_thyk.svg">
+
+                            </div>
+                            <h6>
+                                تصفیه کننده های هوا
+                            </h6>
+                            <p>
+                                مناسب فضاهای بسته و سیگاری ها
+                            </p>
+                        </a></div>
+                    <div class="card">   <a href="#" class="blog-item">
+                            <div class="img-box">
+                                <img src="assets/svg/undraw_discount_d4bd.svg">
+
+                            </div>
+                            <h6>
+                                منوی اقتصادی
+                            </h6>
+                            <p>
+                                خرید گیاهان زیر ۱۰۰ هزار تومان
+                            </p>
+                        </a></div>
+
+                </div>
+
+                <div class="row apar-row">
+                    <a class="link-items" href="#"></a>
+
+                    <div class="enter-row col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <h2>
+                            گل و گیاه آپارتمانی
+                        </h2>
+                        <p>
+                            مجموعه گیاهامناسب برای نگهداری در آپارتمان
+                        </p>
+                        <img class="mobile left-arrow" src="assets/svg/chevron-back-outline.svg">
+
+                    </div>
+                    <div class="user-agant col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                        <a href="#" >
+                            <button  class="extra-item">
+                                <img src="assets/svg/icons8-back-24.png">
+                                <p>
+                                    مشاهده همه
+
+                                </p>
+                            </button>
+
+
+                        </a>
+                    </div>
+                </div>
+                <div class="blog-row mobile-scrolling scrolling-wrapper">
+
+                    <div class="card">
+                        <a class="items">
+                            <div class="img-box">
+                                <img src="assets/svg//sample.jpg">
+
+                            </div>
+                            <h3>
+                                نخل شامادورا
+                            </h3>
+                            <p>
+                                ۱۶۵/۰۰۰
+                                <span>
+                      تومان
+                    </span>
+                            </p>
+                        </a></div>
+                    <div class="card"> <a class="items">
+                            <div class="img-box">
+                                <img src="assets/svg//sample.jpg">
+
+                            </div>
+                            <h3>
+                                نخل شامادورا
+                            </h3>
+                            <p>
+                                ۱۶۵/۰۰۰
+                                <span>
+                      تومان
+                    </span>
+                            </p>
+                        </a></div>
+                    <div class="card"> <a class="items">
+                            <div class="img-box">
+                                <img src="assets/svg//sample.jpg">
+
+                            </div>
+                            <h3>
+                                نخل شامادورا
+                            </h3>
+                            <p>
+                                ۱۶۵/۰۰۰
+                                <span>
+                      تومان
+                    </span>
+                            </p>
+                        </a></div>
+                    <div class="card"> <a class="items">
+                            <div class="img-box">
+                                <img src="assets/svg//sample.jpg">
+
+                            </div>
+                            <div class="offer-box">
+                                ۵۰ هزار تومان تخفیف ویژه
+                            </div>
+                            <h3>
+                                نخل شامادورا
+                            </h3>
+                            <p>
+                                ۱۶۵/۰۰۰
+                                <span>
+                      تومان
+                    </span>
+                            </p>
+                        </a></div>
+
+                </div>
+                <div class="row apar-row">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <h2>
+                            گل و گیاه آپارتمانی
+                        </h2>
+                        <p>
+                            مجموعه گیاهامناسب برای نگهداری در آپارتمان
+                        </p>
+                    </div>
+
+                </div>
+                <div class="row">
+                    <div class="items-row col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                        <a class="webblog-item">
+                            <div id="b-item" class="b-item">
+                                <h3>
+                                    مشکلات رایج آپارتمانی
+                                </h3>
+                                <p>
+                                    لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است
+                                </p>
+                                <div class="more-item">ادامه متن  <span></span></div>
+                            </div>
+                            <div class="b-item">
+                                <div class="img-box">
+                                    <img src="assets/svg//sample2.jpg">
+                                    <div class="date">
+                                        مرداد ۲۷ , ۱۳۹۹
+                                        <img src="assets/svg/icons8-clock.svg">
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="items-row col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                        <a class="webblog-item">
+                            <div id="b-item" class="b-item">
+                                <h3>
+                                    مشکلات رایج آپارتمانی
+                                </h3>
+                                <p>
+                                    لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است
+                                </p>
+                                <div class="more-item">ادامه متن  <span></span></div>
+                            </div>
+                            <div class="b-item">
+                                <div class="img-box">
+                                    <img src="assets/svg//sample2.jpg">
+                                    <div class="date">
+                                        مرداد ۲۷ , ۱۳۹۹
+                                        <img src="assets/svg/icons8-clock.svg">
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="row apar-row">
+
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+                        <p>
+                            مجموعه گیاهامناسب برای نگهداری در آپارتمان
+                        </p>
+                    </div>
+                    <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                        <div class="majale">
+                            <div class="majale-item">
+                                بیماری ها و درمان
+                            </div>
+                            <div class="majale-item">
+                                تکثیر گل و گیاه
+                            </div>
+                            <div class="majale-item">
+                                آبیاری
+                            </div>
+                            <div class="majale-item">
+                                تعویض گلدان
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class=" extra-row col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                        <a href="#" >
+                            <button  class="extra-item">
+                                <img src="assets/svg/icons8-back-24.png">
+                                <p>
+                                    مقالات بیشتر را در وبلاگ بحوانید
+
+                                </p>
+                            </button>
+
+
+                        </a>
+                    </div>
+
+
+                </div>
+                <div class="row offer-row blog-row">
+                    <div class="items-row col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <a class="baner">
+                            بنر تبلیغاتی
+
+                        </a>
+                    </div>
+                    <div class="items-row col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <a class="baner">
+                            بنر تبلیغاتی
+
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

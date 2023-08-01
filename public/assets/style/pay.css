@@ -1,0 +1,252 @@
+/* reset */
+html,
+body,
+div,
+span,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+abbr,
+address,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+samp,
+small,
+strong,
+sub,
+sup,
+var,
+b,
+i,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+body {
+    line-height: 1;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+    display: block;
+}
+
+nav ul {
+    list-style: none;
+}
+
+blockquote,
+q {
+    quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+a {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+.clear {
+    clear: both;
+}
+
+/* change colours to suit your needs */
+ins {
+    background-color: #ff9;
+    color: #000;
+    text-decoration: none;
+}
+
+/* change colours to suit your needs */
+mark {
+    background-color: #ff9;
+    color: #000;
+    font-style: italic;
+    font-weight: bold;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+abbr[title],
+dfn[title] {
+    border-bottom: 1px dotted;
+    cursor: help;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+ul {
+    list-style: none
+}
+
+/* change border colour to suit your needs */
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #cccccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+input,
+select,
+button,
+textarea {
+    vertical-align: middle;
+    font-family: 'Yekan Bakh', 'Product Sans';
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+* {
+    outline: none
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover,
+textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus {
+    background: none !important;
+}
+
+@font-face {
+    font-family: 'Yekan Bakh';
+    font-display: swap;
+    src: url('../fonts/YekanBakh-Medium.eot');
+    src: url('../fonts/YekanBakh-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/YekanBakh-Medium.woff2') format('woff2'),
+        url('../fonts/YekanBakh-Medium.woff') format('woff'),
+        url('../fonts/YekanBakh-Medium.svg#YekanBakh-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+html, body {
+    background: #111111;
+    /*color: #39CAAE;*/
+    font-family: 'Yekan Bakh', sans-serif;
+    font-weight: 200;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.container {
+    background: #1A1A1A;
+    width: 415px;
+    padding: 35px 60px;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+a{
+  margin-top: 50px;
+  display: block;
+}
+.box{
+  margin:0 auto;
+  display: inline-block;
+  background-color: #2ecc71;
+  border-radius: .25rem;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  border-radius: 10px;
+  padding: 10px 30px;
+  color:white;
+}
+.box.alert{
+  background-color: #e74c3c;
+}
